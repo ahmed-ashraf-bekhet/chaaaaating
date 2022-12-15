@@ -24,6 +24,6 @@
         "vue-template-compiler": "^2.6.10"
     },
     "dependencies": {
-        "twilio-chat": "^3.4.0"
+        "twilio-chat": "^6.0.0"
     }
 }
